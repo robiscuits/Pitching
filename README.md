@@ -1,6 +1,6 @@
-# Real-Time Pitch Recommendation Model
+# Pitch Recommendation Model
 
-This project implements a real-time, context-aware pitch recommendation engine using pitch-level Statcast data. The objective is to assist pitching strategy decisions by estimating the probability of a favorable outcome for each available pitch type given the current game situation.
+This project implements a context-aware pitch recommendation engine using pitch-level Statcast data. The objective is to assist pitching strategy decisions by estimating the probability of a favorable outcome for each available pitch type given the current game situation.
 Unlike static run expectancy charts or traditional scouting reports, this model evaluates the complex interaction between pitch characteristics, batter tendencies, count leverage, and historical outcomes using machine learning.
 
 ## Methodology
